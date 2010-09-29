@@ -1,0 +1,22 @@
+Flickr-scripts
+==============
+
+This project gathers usefull flickr scripts
+
+
+Setup
+-----
+
+	Fill the properties in settings.py
+	This data mayy be requested at the followin urls:
+	
+	1. http://www.flickr.com/services/apps/
+	2. http://idgettr.com/
+	3. http://code.google.com/intl/fr/apis/maps/signup.html
+
+
+tagimportr
+----------
+
+	tagimportr allows to tag your flickr photos from their exif and geo data.
+
