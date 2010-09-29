@@ -372,7 +372,7 @@ def main():
 	elif l == 1:	
 		tag_importr.tag_photos(args[0])
 	else:
-		pass
+		parser.error("incorrect number of arguments")
 
 if __name__ == '__main__':
 	main()
